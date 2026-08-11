@@ -1,7 +1,6 @@
 # SIA Tourism Management System
 
-A full-stack Tourism Management System built as a school project for **Systems Integration and Architecture (SIA)**. The project's core focus is demonstrating **system integration** — connecting this application's own modules (bookings, packages, transactions, users, destinations) with an **external Transportation Management System**, and exposing its own data through a secured external API so that other systems can integrate with it in turn.
-
+A full-stack Tourism Management System built as a school project for **Systems Integration and Architecture (SIA)**. 
 ## System Integration Focus
 
 This project was built to practice integrating independently developed systems rather than working as a single standalone app. It does this in two directions:
